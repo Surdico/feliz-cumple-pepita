@@ -7,7 +7,7 @@
 
 const CONFIG = {
   nombre: "Pepita",
-  mensaje: `¡Muy feliz cumpleaños! ❤️ 
+  mensaje: `¡Muy feliz cumpleaños mi amor! ❤️ 
 
 Espero que hoy tengas un día tan lindo como tú y que este nuevo año de vida venga cargado de cosas buenas, alegrías y momentos que te hagan muy feliz.
 
@@ -18,7 +18,7 @@ De corazón, te deseo todas las buenas energías para esta nueva vuelta al sol. 
 Gracias por las conversaciones, las risas y por permitirme conocerte un poquito más cada día. Espero que la vida te devuelva en cosas lindas toda esa luz que tienes.
 
 ¡Que tengas un cumpleaños precioso!`,
-  firma: "Te quiero mucho mi pequeñita! ❤️",
+  firma: "Te quiero mucho mi pequeñita hermosa! ❤️",
 };
 
 // ---------------------------------------------------------
