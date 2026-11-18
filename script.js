@@ -11,11 +11,9 @@ const CONFIG = {
 
 Espero que hoy tengas un día tan lindo como tú y que este nuevo año de vida venga cargado de cosas buenas, alegrías y momentos que te hagan muy feliz.
 
-Me alegra mucho haberte conocido este año y, sobre todo, ver cómo, con el tiempo, hemos ido construyendo un vínculo cada vez más bonito. Me gusta mucho tu forma de ser, tu humor, tu inteligencia y esa capacidad que tienes de hacer que podamos conversar de cualquier cosa, sin importar el tema o la hora. Me encanta lo linda que eres, pero también esa confianza que hemos ido construyendo y que hace que disfrute tanto compartir contigo.
+Me pone muy contento haberte conocido este año y lo mucho que ha ido creciendo nuestro vínculo desde entonces. Es bonito encontrar personas con las que las cosas se dan tan naturalmente, con quienes puedes hablar de cualquier tema, reírte de cualquier tontera y también tener conversaciones de esas que se disfrutan de verdad.
 
-De corazón, te deseo todas las buenas energías para esta nueva vuelta al sol. Que nunca te falten las ganas, las oportunidades ni la confianza para ir detrás de todo aquello que te propongas. Ojalá puedas cumplir cada uno de tus planes, alcanzar tus metas y, sobre todo, disfrutar mucho del camino.
-
-Gracias por las conversaciones, las risas y por permitirme conocerte un poquito más cada día. Espero que la vida te devuelva en cosas lindas toda esa luz que tienes.
+Quiero desearte de corazón que te vaya increíble en todo lo que te propongas, que tengas siempre la energía y la motivación para ir por lo que quieres y que se te vayan dando esas cosas que tanto anhelas. Que nunca te falten motivos para sonreír, personas que te quieran bonito, bebitos peludos que te acompañen y momentos que te recuerden lo valiosa que eres.
 
 ¡Que tengas un cumpleaños precioso!`,
   firma: "Te quiero mucho mi pequeñita hermosa! ❤️",
